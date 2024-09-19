@@ -26,8 +26,8 @@ add_link_options(-fsanitize=address)
 
 ## PoC
 ```
-git clone https://github.com/mugichiya/pockey.git
-cp -r ./pockey/projects/mp4v2_np/testcases .
+git clone https://github.com/mugichiya/pocky.git
+cp -r ./pocky/projects/mp4v2_np/testcases .
 ./mp4chaps --list ./testcases/0000000000.mp4
 ```
 
