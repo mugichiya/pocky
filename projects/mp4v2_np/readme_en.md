@@ -1,7 +1,7 @@
 # SEGV on unknown address mp4file.cpp:2662 in MP4File::GetChapters
 
 ## Abstract
-Segmentation fault (maybe null pointer reference) on mp4chaps.
+Segmentation fault (maybe null pointer reference) on libmp4v2.so.2.
 
 ## Project Address
 [https://github.com/enzo1982/mp4v2/releases/tag/v2.1.3](https://github.com/enzo1982/mp4v2/releases/tag/v2.1.3)
