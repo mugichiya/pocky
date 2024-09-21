@@ -74,7 +74,7 @@ cp -r ./pocky/projects/mp4v2_np/testcases .
 
 ### ASAN
 ```
-banjo@ttc:/tmp/mp4v2/build$ ./mp4chaps --list ./testcases/0000000000.mp4
+banjo@ttc:/opt/mp4v2/build$ ./mp4chaps --list ./testcases/0000000000.mp4
 ReadAtom: "./testcases/0000000000.mp4": invalid atom size, extends outside parent atom - skipping to end of "stbl" "stco" 159384830 vs 1298
 AddressSanitizer:DEADLYSIGNAL
 =================================================================
