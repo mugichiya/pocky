@@ -10,7 +10,7 @@ Segmentation fault (maybe null pointer reference) on mp4chaps.
 ## Build
 ```
 cd /opt
-git clone https://github.com/enzo1982/mp4v2.git -b 2.1.3 --depth 1
+git clone https://github.com/enzo1982/mp4v2.git -b v2.1.3 --depth 1
 cd ./mp4v2
 mkdir build
 cmake -DCMAKE_BUILD_TYPE=Debug ../
